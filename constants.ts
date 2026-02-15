@@ -9,7 +9,7 @@ export const INITIAL_CONTENT: SiteContent = {
   vision: "The Global Restoration vision (a divine agenda) to bring the much needed Restoration to mankind and the rest of creation, with the Restoration of Health, wealth and the environment as the priority.",
   mission: "The mission is to preserve Creation on the Earth, through deliberate steps to promote the proper and profitable use of Natural resources, in a show of respect for Nature, the key to overcoming the overwhelming global challenges today.",
   heroImage: "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&q=80&w=1200",
-  heroVideo: "https://cdn.pixabay.com/video/2016/10/25/6072-188701967_tiny.mp4"
+  heroVideo: "https://cdn.pixabay.com/video/2021/04/12/70881-537442111_tiny.mp4"
 };
 
 export const INITIAL_POSTS: BlogPost[] = [
