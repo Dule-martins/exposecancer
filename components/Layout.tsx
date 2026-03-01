@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="flex items-center space-x-2">
             <Leaf className="text-emerald-400 w-8 h-8" />
             <Link to="/" className="text-2xl font-display font-bold tracking-tight">
-              expose<span className="text-emerald-400">cancer</span>.org
+              expose<span className="text-emerald-400">cancer</span>
             </Link>
           </div>
           
@@ -79,7 +79,7 @@ const Footer = () => (
         <Link to="/admin" className="hover:opacity-80 transition-opacity">
           <Leaf className="text-emerald-400 w-6 h-6" />
         </Link>
-        <span className="text-xl font-display font-bold text-white">ExposeCancer.org</span>
+        <span className="text-xl font-display font-bold text-white">exposecancer</span>
       </div>
       <p className="max-w-2xl mx-auto mb-8 text-sm opacity-80">
         A Global campaign to overcome cancer today. Promoted by STILL WATERS INT'L (Advocates for Nature).
@@ -91,7 +91,7 @@ const Footer = () => (
         {/* "Admin" link removed from visible footer links */}
       </div>
       <div className="text-xs opacity-50">
-        &copy; {new Date().getFullYear()} exposecancer.org. All rights reserved.
+        &copy; {new Date().getFullYear()} exposecancer. All rights reserved.
       </div>
     </div>
   </footer>

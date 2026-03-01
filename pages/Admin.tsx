@@ -41,7 +41,7 @@ const Admin = () => {
             </button>
           </div>
           <p className="mt-6 text-center text-xs text-slate-400 uppercase tracking-widest font-bold">
-            exposecancer.org management system
+            exposecancer management system
           </p>
         </form>
       </div>
@@ -109,7 +109,7 @@ const Admin = () => {
             <h1 className="text-4xl font-display font-bold text-slate-900">
               {activeTab === 'content' ? 'Site Configuration' : 'Campaign Stories'}
             </h1>
-            <p className="text-slate-500">Managing exposecancer.org</p>
+            <p className="text-slate-500">Managing exposecancer</p>
           </div>
           {activeTab === 'posts' && (
             <button 
