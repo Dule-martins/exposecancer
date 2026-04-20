@@ -140,14 +140,12 @@ const Home = () => {
             </div>
             <div className="bg-white p-10 rounded-2xl shadow-sm border border-emerald-100">
               <h2 className="text-3xl font-display font-bold text-emerald-900 mb-6">Our Mission</h2>
-              <p className="text-slate-700 leading-relaxed">{content.mission}</p>
+              <p className="text-slate-700 leading-relaxed">"{content.mission}"</p>
             </div>
-            <div className="bg-white p-10 rounded-2xl shadow-sm border border-emerald-100 md:col-span-2">
-              <div className="flex items-center gap-2 mb-6">
+            <div className="bg-white p-10 rounded-2xl shadow-sm border border-emerald-100">
                 <NotebookPen className="w-5 h-5 text-emerald-700" />
-                <h2 className="text-3xl font-display font-bold text-emerald-900">Note</h2>
-              </div>
-              <p className="text-slate-700 leading-relaxed">{content.note}</p>
+                <h2 className="text-3xl font-display font-bold text-emerald-900 mb-2">NB:</h2>
+              <p className="text-slate-700 leading-relaxed">"{content.note}"</p>
             </div>
           </div>
         </div>
