@@ -113,8 +113,7 @@ const Home = () => {
               <p className="opacity-80">As the key highlights, exposing the truth about cancer very importantly reveals the followings; Why cancer has been incurable, Why cancer has remained incurable, and Why a simple cure for cancer</p>
             </div>
           </div>
-          <div></div>
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-3 gap-8 mt-8">
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why cancer has been incurable</h3>
               <p className="opacity-80">Drugs cannot carry out the safe and effective selective cytotoxicity required as treatment.</p>
