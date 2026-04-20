@@ -4,7 +4,7 @@ import { BlogPost, SiteContent } from './types';
 export const INITIAL_CONTENT: SiteContent = {
   heroTitle: "EXPOSING THE TRUTH ABOUT CANCER",
   heroSubtitle: "(A Global campaign to overcome cancer today)",
-  keyNote: "<span>DRUGS ARE USELESS TO CANCER</span> <br> The popular synthetic medicines today (Drugs) are useless to cancer as a disease; simply because, they cannot deal with intracellular diseases,lacking the ability to carry out the safe and effective selective cytotoxicity required as treatment for the cure. The very reason mankind is still struggling with viruses.",
+  keyNote: "The DRUGS ARE USELESS TO CANCER: The popular synthetic medicines today (Drugs) are useless to cancer as a disease; simply because, they cannot deal with intracellular diseases,lacking the ability to carry out the safe and effective selective cytotoxicity required as treatment for the cure. The very reason mankind is still struggling with viruses.",
   introText: "No doubt, to the dismay and even consternation of those taking undue advantage of the people's ignorance of the truth about cancer, to easily deceive and massively exploit mankind financially, through the so called treatments for cancer presently; it is indeed of great importance to expose the truth about cancer for people to know.",
   vision: "The Global Restoration vision (a divine agenda) to bring the much needed Restoration to mankind and the rest of creation, with the Restoration of Health, wealth and the environment as the priority.",
   mission: "The mission is to preserve Creation on the Earth, through deliberate steps to promote the proper and profitable use of Natural resources, in a show of respect for Nature, the key to overcoming the overwhelming global challenges today.",
