@@ -127,6 +127,7 @@ const Home = () => {
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why a simple cure for cancer</h3>
               <p className="opacity-80">The immune system is the key to the cure for intracellular diseases like cancer.</p>
             </div>
+          </div>
         </div>
       </section>
 
