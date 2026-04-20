@@ -113,26 +113,7 @@ const Home = () => {
               <p className="opacity-80">As the key highlights, exposing the truth about cancer very importantly reveals the followings; Why cancer has been incurable, Why cancer has remained incurable, and Why a simple cure for cancer</p>
             </div>
           </div>
-          <div className="grid md:grid-cols-3 gap-8">
-            <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
-              <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key point:</h3>
-              <p className="opacity-80">The most significant factor as far as the cure for cancer is concerned, is the fact (science) that cancer is an intracellular disease, with the immune system as the key to the cure; therefore: Drugs are useless to cancer and Immunotherapy is the only means of treatment for a cure</p>
-            </div>
-            <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
-              <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key Benefits:</h3>
-              <p className="opacity-80">The key benefits of exposing the truth about cancer; It helps to provide a correct diagnosis and pathway to the simple cure for cancer. It puts an end to the enabling ignorance, the basis of mankind being deceived and financially exploited through expensive palliative treatments for cancer</p>
-            </div>
-            <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
-              <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key Highlights:</h3>
-              <p className="opacity-80">As the key highlights, exposing the truth about cancer very importantly reveals the followings; Why cancer has been incurable, Why cancer has remained incurable, and Why a simple cure for cancer</p>
-            </div>
-          </div>
-        </div>
-      </section>
-      
-      {/* Highlights Details */}
-      <section className="py-24 bg-emerald-900 text-white overflow-hidden">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div></div>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why cancer has been incurable</h3>
@@ -146,7 +127,6 @@ const Home = () => {
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why a simple cure for cancer</h3>
               <p className="opacity-80">The immune system is the key to the cure for intracellular diseases like cancer.</p>
             </div>
-          </div>
         </div>
       </section>
 
