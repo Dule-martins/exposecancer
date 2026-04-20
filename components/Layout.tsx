@@ -88,6 +88,7 @@ const Footer = () => (
         <Link to="/" className="hover:text-emerald-400">Home</Link>
         <Link to="/truth" className="hover:text-emerald-400">The Truth</Link>
         <Link to="/blog" className="hover:text-emerald-400">Blog</Link>
+        <Link to="/admin" className="hover:text-emerald-400">Admin</Link>
         {/* "Admin" link removed from visible footer links */}
       </div>
       <div className="text-xs opacity-50">
