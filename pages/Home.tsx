@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { useCMS } from '../context/CMSContext';
-import { ShieldCheck, Zap, Globe, ArrowRight, Activity, Sprout } from 'lucide-react';
+import { ShieldCheck, Zap, Globe, ArrowRight, Activity, Sprout, NotebookPen } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Home = () => {
@@ -141,6 +141,13 @@ const Home = () => {
             <div className="bg-white p-10 rounded-2xl shadow-sm border border-emerald-100">
               <h2 className="text-3xl font-display font-bold text-emerald-900 mb-6">Our Mission</h2>
               <p className="text-slate-700 leading-relaxed">{content.mission}</p>
+            </div>
+            <div className="bg-white p-10 rounded-2xl shadow-sm border border-emerald-100 md:col-span-2">
+              <div className="flex items-center gap-2 mb-6">
+                <NotebookPen className="w-5 h-5 text-emerald-700" />
+                <h2 className="text-3xl font-display font-bold text-emerald-900">NB</h2>
+              </div>
+              <p className="text-slate-700 leading-relaxed">{content.note}</p>
             </div>
           </div>
         </div>

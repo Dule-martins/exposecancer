@@ -17,6 +17,7 @@ export interface SiteContent {
   introText: string;
   vision: string;
   mission: string;
+  note: string;
   heroImage: string;
   heroVideo: string;
 }

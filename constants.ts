@@ -8,6 +8,7 @@ export const INITIAL_CONTENT: SiteContent = {
   introText: "No doubt, to the dismay and even consternation of those taking undue advantage of the people's ignorance of the truth about cancer, to easily deceive and massively exploit mankind financially, through the so called treatments for cancer presently; it is indeed of great importance to expose the truth about cancer for people to know.",
   vision: "The Global Restoration vision (a divine agenda) to bring the much needed Restoration to mankind and the rest of creation, with the Restoration of Health, wealth and the environment as the priority.",
   mission: "The mission is to preserve Creation on the Earth, through deliberate steps to promote the proper and profitable use of Natural resources, in a show of respect for Nature, the key to overcoming the overwhelming global challenges today.",
+  note: "Quite sadly, ignorance of the truth about cancer, has simply helped diseases like cancer to become an extremely lucrative business, at the expense of mankind.",
   heroImage: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&q=80&w=1200",
   heroVideo: "https://cdn.pixabay.com/video/2021/04/12/70881-537442111_tiny.mp4"
 };
