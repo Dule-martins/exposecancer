@@ -116,15 +116,15 @@ const Home = () => {
           <div className="grid md:grid-cols-3 gap-8 mt-8">
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why cancer has been incurable</h3>
-              <p className="opacity-80">Drugs cannot carry out the safe and effective selective cytotoxicity required as treatment.</p>
+              <p className="opacity-80"> Drugs (synthetic medicine) can not carry out the safe and effective selective cytotoxicity required as treatment for the cure of cancer.</p>
             </div>
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why cancer has remained incurable</h3>
-              <p className="opacity-80">The system of the Global health sector is under the influence of those profiting from synthetic drugs.</p>
+              <p className="opacity-80">The system has practically made synthetic medicine (Drugs) the only acceptable medicine in a ruthless monopoly, under the influence of the powers that be profiting immensely from drugs.</p>
             </div>
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">Why a simple cure for cancer</h3>
-              <p className="opacity-80">The immune system is the key to the cure for intracellular diseases like cancer.</p>
+              <p className="opacity-80">An immunotherapy is the required treatment for the cure of cancer, simply because cancer is an intracellular disease, with the immune system as the key to the cure.</p>
             </div>
           </div>
         </div>
