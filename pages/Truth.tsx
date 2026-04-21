@@ -9,7 +9,7 @@ const Truth = () => {
       <div className="bg-emerald-900 text-white py-20 px-4 text-center">
         <h1 className="text-5xl font-display font-bold mb-4">The Truth About Cancer</h1>
         <p className="text-emerald-200 text-xl max-w-2xl mx-auto">
-          Exposing the compromise system, and highlighting the basics of a simple, affordable, and sustainable cure for cancer. (immunotherapy)
+          Exposing the compromise system, and highlighting the basis of a simple, affordable, and sustainable cure for cancer. (immunotherapy)
         </p>
       </div>
 
