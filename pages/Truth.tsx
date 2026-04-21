@@ -9,7 +9,7 @@ const Truth = () => {
       <div className="bg-emerald-900 text-white py-20 px-4 text-center">
         <h1 className="text-5xl font-display font-bold mb-4">The Truth About Cancer</h1>
         <p className="text-emerald-200 text-xl max-w-2xl mx-auto">
-          Exposing the systemic failures and highlighting the natural path to recovery.
+          Exposing the compromise system, and highlighting the basics of a simple, affordable, and sustainable cure for cancer. (immunotherapy)
         </p>
       </div>
 
@@ -57,7 +57,7 @@ const Truth = () => {
               A simple, affordable and sustainable cure for cancer is all based on the science that the immune system is the key to the cure for intracellular diseases. The cytotoxic immune cells have the unique capability to carry out the safe and effective selective cytotoxicity required.
             </p>
             <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100 italic text-emerald-800">
-              "Boosting the immune system with cytotoxic immune booster foods (true and simple natural medicines) makes for a simple, affordable and sustainable cure."
+              "Boosting the immune system with cytotoxic immune booster foods (true and simple natural medicines) makes food the basis for a simple, affordable and sustainable cure."
             </div>
           </div>
         </section>
