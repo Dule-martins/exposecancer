@@ -55,7 +55,7 @@ const Home = () => {
           <div className="bg-white p-12 rounded-3xl shadow-xl border border-emerald-100 flex flex-col md:flex-row items-center gap-12">
             <div className="flex-1 space-y-6">
               <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-100 text-emerald-700 text-sm font-bold uppercase tracking-wider">
-                <ShieldCheck className="w-4 h-4" /> Key Note
+                <ShieldCheck className="w-4 h-4" /> Key Point
               </div>
               <p className="text-3xl md:text-4xl font-display font-bold text-emerald-900 leading-snug">
                 "{content.keyNote}"
@@ -101,8 +101,13 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8">
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
-              <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key point:</h3>
-              <p className="opacity-80">DRUGS ARE USELESS TO CANCER: The popular synthetic medicines today (Drugs) are useless to cancer as a disease; simply because, they cannot deal with intracellular diseases, lacking the ability to carry out the safe and effective selective cytotoxicity required as treatment for the cure. The very reason mankind is still struggling with viruses.</p>
+              <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key note:</h3>
+              <p className="opacity-80">The most significant factor as far as the cure for cancer is concerned, is the fact (science) that cancer is an intracellular disease, with the immune system as the key to the cure; therefore:
+                <li>
+                  <ul>Drugs are useless to cancer</ul>
+                  <ul>Immunotherapy is the only means of treatment for a cure</ul>
+                </li>
+              </p>
             </div>
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key Benefits:</h3>
