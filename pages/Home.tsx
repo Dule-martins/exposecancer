@@ -104,7 +104,7 @@ const Home = () => {
               <h3 className="text-2xl font-bold mb-4 text-emerald-300">The key note:</h3>
               <p className="opacity-80">The most significant factor as far as the cure for cancer is concerned, is the fact (science) that cancer is an intracellular disease, with the immune system as the key to the cure; therefore:
                 <li>
-                  <ul>Drugs are useless to cancer</ul>
+                  Drugs are useless to cancer
                 </li>
                 <li>
                   Immunotherapy is the only means of treatment for a cure
