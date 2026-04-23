@@ -106,6 +106,9 @@ const Home = () => {
                 <li>
                   <ul>Drugs are useless to cancer</ul>
                 </li>
+                <li>
+                  <ul>Immunotherapy is the only means of treatment for a cure</ul>
+                </li>
               </p>
             </div>
             <div className="p-8 bg-emerald-800 rounded-2xl border border-emerald-700">
